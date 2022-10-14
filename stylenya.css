@@ -1,0 +1,75 @@
+* {
+    padding:0;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:black;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #e18906e2;
+    text-decoration: underline;
+}
+.medsos{
+    padding: 10px 0;
+    background-color: #064C6F;
+}
+.medsos ul li{
+    display: inline-block;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    float: center;
+    padding: 15px 0;
+}
+header ul {
+    float: right;
+}
+header ul li {
+    display: inline-block;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+    
+}
+header a {
+    color: grey;
+    text-decoration: none;
+    margin-left: -20px;
+}
+img {
+    float: left;
+    width: 300px;
+}
+header ul li a:hover{
+    color: #229bd8;
+}
+h1 {
+    margin-top: 10%;
+    color: #229bd8;
+    margin-left: 10%;
+    margin-right: 50%;
+    text-align: left;
+}
+.intro {
+    padding-top: 5%;
+    padding-bottom: 10%;
+    margin-bottom: 60%;
+    margin-top: 10%;
+    background-image: url(https://www.pedulilindungi.id/assets/banner-home-vaccine.svg);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-position: top right;
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
+.intro p:hover {
+    background-color: #4aafe2;
+}
